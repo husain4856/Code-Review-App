@@ -17,6 +17,6 @@
    - A detailed breakdown of mistakes.
    - Suggestions for improvement.
    - A fully corrected version of the code.
-4. Hover over the button to see a subtle UI animation (hover color turns white!).
+4. Hover over the button to see a subtle UI animation.
 
 
